@@ -1,0 +1,5 @@
+name: CustomBossPlugin
+version: 1.0
+main: com.op.customboss.CustomBossPlugin
+api-version: 1.21
+author: OP
